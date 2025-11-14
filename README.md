@@ -1,7 +1,7 @@
 
 
 
-<img width="1200" height="700" alt="ChatGPT Image Nov 14, 2025, 07_40_29 PM" src="https://github.com/user-attachments/assets/8fbe6eae-e2e3-4ed7-91bd-d481082da87a" />
+<img width="500" height="250" alt="ChatGPT Image Nov 14, 2025, 07_40_29 PM" src="https://github.com/user-attachments/assets/8fbe6eae-e2e3-4ed7-91bd-d481082da87a" />
 
 
 # LLM Persona Testing Pipeline
