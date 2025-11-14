@@ -1,3 +1,9 @@
+
+
+
+<img width="1536" height="1024" alt="ChatGPT Image Nov 14, 2025, 07_40_29 PM" src="https://github.com/user-attachments/assets/8fbe6eae-e2e3-4ed7-91bd-d481082da87a" />
+
+
 # LLM Persona Testing Pipeline
 
 A Python pipeline for testing the accuracy of LLM-based behavioral predictions using local open source models.
