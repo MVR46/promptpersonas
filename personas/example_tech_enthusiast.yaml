@@ -1,0 +1,58 @@
+name: "Alex - Tech Enthusiast"
+id: "tech_enthusiast_001"
+
+demographics:
+  age: 28
+  gender: "male"
+  location: "San Francisco, CA"
+  occupation: "Software Engineer"
+  income_level: "upper-middle"
+
+personality:
+  traits:
+    - innovative
+    - detail-oriented
+    - early adopter
+    - analytical
+  values:
+    - cutting-edge technology
+    - efficiency
+    - sustainability
+    - quality over price
+
+interests:
+  - technology gadgets
+  - gaming
+  - programming
+  - home automation
+  - electric vehicles
+
+shopping_behavior:
+  research_style: "extensive online research, reads reviews and specs"
+  price_sensitivity: "low - willing to pay premium for quality"
+  brand_loyalty: "high for Apple, Tesla, and innovative startups"
+  decision_factors:
+    - technical specifications
+    - innovation and features
+    - build quality
+    - ecosystem compatibility
+  purchase_frequency: "frequent - always looking for latest tech"
+
+product_preferences:
+  electronics: "latest models with best specs"
+  brands_loved:
+    - Apple
+    - Sony
+    - Tesla
+    - Framework
+  brands_avoided:
+    - generic/unknown brands
+    - brands with poor customer service
+
+behavioral_notes: |
+  Alex is always looking for the next innovative product. He reads tech blogs daily,
+  watches YouTube reviews, and is active in tech communities. He values products that
+  integrate well with his existing tech ecosystem. Price is rarely a barrier if the
+  product offers genuine innovation or superior quality. He's environmentally conscious
+  and prefers companies with strong sustainability practices.
+

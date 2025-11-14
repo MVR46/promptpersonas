@@ -1,0 +1,158 @@
+question_set:
+  id: "product_choices_001"
+  name: "Product Choice Scenarios"
+  description: "Binary and multiple choice product decisions"
+
+questions:
+  - id: "laptop_choice_001"
+    type: "binary_choice"
+    category: "electronics"
+    question: |
+      You need a new laptop. Which would you choose?
+      
+      Option A: MacBook Pro M3 - $2,499
+      - Latest Apple Silicon chip
+      - 16GB RAM, 512GB SSD
+      - Excellent build quality and ecosystem integration
+      - 3-year warranty
+      
+      Option B: Dell XPS 15 - $1,299
+      - Intel i7 processor
+      - 16GB RAM, 512GB SSD
+      - Good build quality, highly customizable
+      - 1-year warranty
+    follow_up: "Why did you choose this option?"
+
+  - id: "headphones_choice_001"
+    type: "binary_choice"
+    category: "electronics"
+    question: |
+      You want wireless headphones for daily use. Which would you buy?
+      
+      Option A: Sony WH-1000XM5 - $399
+      - Industry-leading noise cancellation
+      - 30-hour battery life
+      - Premium sound quality
+      - Well-known brand
+      
+      Option B: Soundcore Space Q45 - $149
+      - Good noise cancellation
+      - 50-hour battery life
+      - Solid sound quality
+      - Lesser-known brand but excellent reviews
+    follow_up: "What factors influenced your decision?"
+
+  - id: "phone_choice_001"
+    type: "binary_choice"
+    category: "electronics"
+    question: |
+      Time for a new smartphone. Which appeals to you more?
+      
+      Option A: iPhone 15 Pro - $999
+      - Latest iOS features
+      - Excellent camera system
+      - Premium build (titanium)
+      - 5-year software support guaranteed
+      
+      Option B: Google Pixel 8 - $699
+      - Clean Android experience
+      - Great camera with AI features
+      - Good build quality
+      - 7-year software support
+    follow_up: "Explain your reasoning."
+
+  - id: "coffee_maker_001"
+    type: "binary_choice"
+    category: "home_appliances"
+    question: |
+      You need a coffee maker. Which would you purchase?
+      
+      Option A: Breville Barista Express - $749
+      - Full espresso machine with grinder
+      - Café-quality drinks at home
+      - Stainless steel, very durable
+      - Requires learning curve
+      
+      Option B: Mr. Coffee 12-Cup - $29
+      - Simple drip coffee maker
+      - Easy to use and clean
+      - Gets the job done
+      - Basic features only
+    follow_up: "What made you pick this one?"
+
+  - id: "backpack_choice_001"
+    type: "binary_choice"
+    category: "accessories"
+    question: |
+      You need a new everyday backpack. Which do you prefer?
+      
+      Option A: Patagonia Arbor Pack 26L - $99
+      - Made from recycled materials
+      - Lifetime warranty
+      - Durable and repairable
+      - Classic, timeless design
+      
+      Option B: Amazon Basics Backpack - $25
+      - Basic functionality
+      - Adequate durability for daily use
+      - Multiple color options
+      - No-frills design
+    follow_up: "Why does this choice make sense for you?"
+
+  - id: "sneakers_choice_001"
+    type: "binary_choice"
+    category: "apparel"
+    question: |
+      Looking for comfortable everyday sneakers. Your choice?
+      
+      Option A: Allbirds Tree Runners - $115
+      - Made from sustainable eucalyptus fiber
+      - Carbon-neutral production
+      - Very comfortable
+      - Simple, minimalist design
+      
+      Option B: Nike Air Max - $140
+      - Popular athletic brand
+      - Stylish design with air cushioning
+      - Wide availability
+      - Trendy colorways
+    follow_up: "What influenced this decision?"
+
+  - id: "tablet_choice_001"
+    type: "binary_choice"
+    category: "electronics"
+    question: |
+      You want a tablet for reading and light browsing. Which would you get?
+      
+      Option A: iPad (10th gen) - $449
+      - Premium tablet experience
+      - Excellent app ecosystem
+      - Great build quality
+      - Long software support
+      
+      Option B: Amazon Fire HD 10 - $139
+      - Good enough for basic tasks
+      - Decent screen
+      - Great for Amazon content
+      - Budget-friendly
+    follow_up: "Walk me through your thought process."
+
+  - id: "water_bottle_001"
+    type: "binary_choice"
+    category: "accessories"
+    question: |
+      You need a reusable water bottle. Which appeals to you?
+      
+      Option A: Hydro Flask 32oz - $45
+      - Excellent insulation
+      - Durable stainless steel
+      - Lifetime warranty
+      - Many color options
+      
+      Option B: Simple Modern 32oz - $20
+      - Good insulation
+      - Stainless steel
+      - Similar features to premium brands
+      - Budget price point
+    follow_up: "Why this choice?"
+

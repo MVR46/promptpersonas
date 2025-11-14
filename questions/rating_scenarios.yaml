@@ -1,0 +1,70 @@
+question_set:
+  id: "rating_scenarios_001"
+  name: "Product Rating Scenarios"
+  description: "Rate products and explain reasoning"
+
+questions:
+  - id: "smart_home_rating_001"
+    type: "rating"
+    category: "electronics"
+    scale: "1-5"
+    question: |
+      Rate your interest in this product:
+      
+      Smart Home Starter Kit - $299
+      - Includes smart hub, 4 smart bulbs, 2 motion sensors, door lock
+      - Control everything from your phone
+      - Works with Alexa, Google Home, HomeKit
+      - Requires setup and Wi-Fi
+      
+      How interested are you in purchasing this? (1=Not at all, 5=Very interested)
+    follow_up: "Explain your rating."
+
+  - id: "subscription_box_rating_001"
+    type: "rating"
+    category: "subscription"
+    scale: "1-5"
+    question: |
+      Rate your interest in this subscription:
+      
+      Eco-Friendly Product Box - $35/month
+      - Monthly delivery of sustainable household products
+      - Plastic-free packaging
+      - Discover new eco-friendly brands
+      - Cancel anytime
+      
+      How likely are you to subscribe? (1=Not at all, 5=Very likely)
+    follow_up: "What drives your rating?"
+
+  - id: "repair_service_rating_001"
+    type: "rating"
+    category: "service"
+    scale: "1-5"
+    question: |
+      Rate your interest in this service:
+      
+      Electronics Repair Service - $79 diagnostic fee + parts
+      - Fix phones, laptops, tablets instead of replacing
+      - Certified technicians
+      - 90-day warranty on repairs
+      - Reduce e-waste
+      
+      How likely are you to use this service? (1=Not at all, 5=Very likely)
+    follow_up: "What influenced your rating?"
+
+  - id: "premium_warranty_rating_001"
+    type: "rating"
+    category: "service"
+    scale: "1-5"
+    question: |
+      Rate your interest in this add-on:
+      
+      Extended Premium Warranty - $199 (for a $1,200 laptop)
+      - Extends warranty from 1 year to 4 years
+      - Covers accidental damage
+      - Free repairs and parts
+      - 24/7 customer support
+      
+      How interested are you in purchasing this? (1=Not at all, 5=Very interested)
+    follow_up: "Explain your reasoning."
+

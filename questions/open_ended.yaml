@@ -1,0 +1,49 @@
+question_set:
+  id: "open_ended_001"
+  name: "Open-Ended Product Questions"
+  description: "Free-form responses about product preferences"
+
+questions:
+  - id: "most_important_feature_001"
+    type: "open_ended"
+    category: "general"
+    question: |
+      When buying a new electronic device (like a phone, laptop, or tablet),
+      what is the single most important factor in your decision?
+
+  - id: "brand_loyalty_001"
+    type: "open_ended"
+    category: "general"
+    question: |
+      Think of a brand you're particularly loyal to. What makes you keep
+      coming back to this brand instead of trying alternatives?
+
+  - id: "regret_purchase_001"
+    type: "open_ended"
+    category: "general"
+    question: |
+      Describe a purchase you regretted. What went wrong, and what did you
+      learn from this experience?
+
+  - id: "research_process_001"
+    type: "open_ended"
+    category: "general"
+    question: |
+      Walk me through your typical research process before making a significant
+      purchase (over $200). Where do you look for information?
+
+  - id: "sustainability_priority_001"
+    type: "open_ended"
+    category: "values"
+    question: |
+      How important is environmental sustainability when you make purchasing
+      decisions? Does it ever influence what you buy or don't buy?
+
+  - id: "price_vs_quality_001"
+    type: "open_ended"
+    category: "values"
+    question: |
+      Would you rather buy something cheaper that might need replacing in a
+      few years, or spend more upfront for something that lasts a decade?
+      Why?
+

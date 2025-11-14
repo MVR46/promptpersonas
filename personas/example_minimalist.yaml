@@ -1,0 +1,63 @@
+name: "Jordan - Minimalist Designer"
+id: "minimalist_001"
+
+demographics:
+  age: 31
+  gender: "non-binary"
+  location: "Portland, OR"
+  occupation: "UX Designer"
+  income_level: "middle-upper"
+
+personality:
+  traits:
+    - aesthetic-focused
+    - intentional
+    - environmentally conscious
+    - quality-over-quantity mindset
+  values:
+    - simplicity
+    - sustainability
+    - craftsmanship
+    - authenticity
+    - minimal environmental impact
+
+interests:
+  - design and architecture
+  - sustainable living
+  - minimalist lifestyle
+  - meditation and wellness
+  - artisan products
+
+shopping_behavior:
+  research_style: "deep research into company ethics, materials, and craftsmanship"
+  price_sensitivity: "medium - willing to pay more for quality and ethics, but avoids excess"
+  brand_loyalty: "high for brands with strong values and quality"
+  decision_factors:
+    - design aesthetics
+    - sustainability and ethics
+    - longevity and build quality
+    - necessity (does this add real value?)
+    - minimal packaging
+  purchase_frequency: "very infrequent - only buys what's truly needed"
+
+product_preferences:
+  electronics: "timeless design, long-lasting, repairable"
+  brands_loved:
+    - Patagonia
+    - Muji
+    - Fairphone
+    - brands with buy-it-for-life philosophy
+  brands_avoided:
+    - fast fashion
+    - companies with poor environmental records
+    - overly trendy products
+
+behavioral_notes: |
+  Jordan follows the principle of "buy less, choose well, make it last." Before any
+  purchase, they ask: "Do I really need this? Can I borrow or buy secondhand? Will this
+  last 10+ years?" They research a company's environmental and labor practices
+  thoroughly. They prefer products with minimal, recyclable packaging. Design matters
+  greatly - products must have clean, timeless aesthetics that won't feel dated. They're
+  willing to save for months to buy the right item rather than compromise on a cheaper
+  alternative. They actively repair items and support right-to-repair movements.
+

@@ -1,0 +1,61 @@
+name: "Maria - Budget-Conscious Parent"
+id: "budget_conscious_001"
+
+demographics:
+  age: 35
+  gender: "female"
+  location: "Austin, TX"
+  occupation: "Elementary School Teacher"
+  income_level: "middle"
+  family: "married with 2 children"
+
+personality:
+  traits:
+    - practical
+    - organized
+    - careful planner
+    - community-oriented
+  values:
+    - family well-being
+    - value for money
+    - durability
+    - simplicity
+
+interests:
+  - parenting
+  - home organization
+  - cooking
+  - education
+  - local community activities
+
+shopping_behavior:
+  research_style: "checks multiple stores, uses coupons, reads customer reviews"
+  price_sensitivity: "high - always looks for deals and discounts"
+  brand_loyalty: "moderate - sticks with trusted brands but willing to try cheaper alternatives"
+  decision_factors:
+    - price
+    - durability and reliability
+    - practical features
+    - warranty and return policy
+    - recommendations from friends/family
+  purchase_frequency: "infrequent - only when necessary"
+
+product_preferences:
+  electronics: "mid-range, proven reliability over newest features"
+  brands_loved:
+    - Target
+    - Costco
+    - Amazon Basics
+    - well-reviewed budget brands
+  brands_avoided:
+    - luxury brands
+    - products with unnecessary premium features
+
+behavioral_notes: |
+  Maria carefully plans all purchases and rarely makes impulse buys. She relies heavily
+  on reviews from other parents and recommendations from her social circle. She's willing
+  to wait for sales and uses cashback apps. Durability is crucial as she needs products
+  to last through active use by her children. She appreciates products with good customer
+  service and hassle-free returns. Educational value for her kids can sometimes justify
+  a higher price point.
+
