@@ -1,0 +1,118 @@
+# PERSONA TEMPLATE - Fill this out to create your personal profile
+# Delete these instruction comments as you go, or leave them in place
+# Replace all [PLACEHOLDER] text with your own information
+# Be as honest and detailed as possible - this helps make better predictions!
+
+name: "[Your Name - Brief Description]"  # Example: "Sarah - Outdoor Adventurer"
+id: "[unique_id]"  # Example: "sarah_001" or "friend_john_001"
+
+demographics:
+  age: [number]  # Your age in years
+  gender: "[your gender]"  # Example: "male", "female", "non-binary", "prefer not to say"
+  location: "[City, State/Country]"  # Example: "Boston, MA" or "London, UK"
+  occupation: "[Your job title]"  # Example: "Marketing Manager", "Student", "Retired"
+  income_level: "[income bracket]"  # Options: "low", "middle", "middle-upper", "upper", or be specific
+  family: "[optional family situation]"  # Example: "single", "married", "married with 3 kids", "lives with roommates"
+
+personality:
+  traits:  # How would you describe yourself? Pick 4-6 traits
+    - [trait 1]  # Examples: organized, spontaneous, analytical, creative, practical
+    - [trait 2]  # adventurous, cautious, social, introverted, detail-oriented
+    - [trait 3]  # optimistic, realistic, ambitious, laid-back, competitive
+    - [trait 4]
+    # Add more traits as needed
+  
+  values:  # What's most important to you? Pick 4-6 values
+    - [value 1]  # Examples: family, career growth, financial security, creativity
+    - [value 2]  # sustainability, authenticity, efficiency, adventure, tradition
+    - [value 3]  # community, independence, health, education, innovation
+    - [value 4]
+    # Add more values as needed
+
+interests:  # What do you enjoy? List 5-10 hobbies, topics, or activities
+  - [interest 1]  # Examples: hiking, cooking, photography, gaming, reading
+  - [interest 2]  # traveling, fitness, music, gardening, sports, art
+  - [interest 3]  # DIY projects, fashion, tech gadgets, movies, volunteering
+  - [interest 4]
+  # Add more interests as needed
+
+shopping_behavior:
+  research_style: "[describe how you research before buying]"
+  # Examples:
+  # - "I read lots of reviews on Amazon and Reddit before buying"
+  # - "I ask friends for recommendations and trust their opinions"
+  # - "I compare prices across multiple websites and look for deals"
+  # - "I go to stores and try things out in person"
+  # - "I make quick decisions based on gut feeling"
+  
+  price_sensitivity: "[how price-conscious are you?]"
+  # Examples:
+  # - "high - I always look for the best deal and rarely splurge"
+  # - "medium - I'll pay more for quality but still look for value"
+  # - "low - I prioritize quality and convenience over price"
+  
+  brand_loyalty: "[how loyal are you to brands?]"
+  # Examples:
+  # - "high - I stick with brands I trust and rarely switch"
+  # - "moderate - I have favorite brands but I'm open to trying new ones"
+  # - "low - I don't care about brands, just quality and price"
+  
+  decision_factors:  # What influences your buying decisions? Rank these or add your own
+    - [factor 1]  # Examples: price, quality, brand reputation, reviews
+    - [factor 2]  # sustainability, convenience, aesthetics/design
+    - [factor 3]  # features, durability, return policy, recommendations
+    - [factor 4]
+    # Add more factors as needed
+  
+  purchase_frequency: "[how often do you buy non-essential items?]"
+  # Examples:
+  # - "frequent - I enjoy shopping and buy things regularly"
+  # - "moderate - I shop when needed or for special occasions"
+  # - "infrequent - I only buy when necessary or well-planned"
+
+product_preferences:
+  electronics: "[describe your approach to buying electronics]"
+  # Examples:
+  # - "latest models with best specs - I want cutting-edge tech"
+  # - "mid-range, proven reliability - I want good value"
+  # - "basic functionality at lowest cost"
+  # - "premium quality that will last years"
+  
+  brands_loved:  # Which brands do you regularly buy or admire?
+    - [brand 1]  # Examples: Apple, Nike, IKEA, Patagonia, Toyota
+    - [brand 2]  # Costco, Target, Amazon, local businesses
+    - [brand 3]
+    # Add as many as relevant
+  
+  brands_avoided:  # Are there brands or types of companies you avoid?
+    - [brand/type 1]  # Examples: fast fashion brands, companies with poor ethics
+    - [brand/type 2]  # luxury brands, unknown brands, specific companies
+    # Add as many as relevant, or delete this section if not applicable
+
+behavioral_notes: |
+  [Write 1-2 paragraphs describing your shopping personality and decision-making process]
+  
+  Think about:
+  - Do you make impulse purchases or plan carefully?
+  - What makes you excited about a product?
+  - What would make you NOT buy something?
+  - Are there any unique quirks about how you shop?
+  - What's a recent purchase you made and why did you choose it?
+  - How do online reviews influence you?
+  - Do you prefer online or in-store shopping?
+  
+  Example: "I tend to research products extensively before buying, often spending hours
+  reading reviews and comparing specs. I'm willing to wait for sales but if I really
+  want something, I'll pay full price. I care a lot about sustainability and will pay
+  more for eco-friendly options. Once I find a product I like, I often recommend it to
+  friends and family. I'm skeptical of marketing hype and prefer products with genuine
+  utility over flashy features."
+
+# TIPS FOR FILLING THIS OUT:
+# 1. Be honest - there are no "right" answers
+# 2. Think about your last few purchases and what drove those decisions
+# 3. Ask yourself: "What would my friends say about my shopping habits?"
+# 4. It's okay to have contradictions (e.g., budget-conscious but splurges on hobbies)
+# 5. The more specific you are, the better the predictions will be
+# 6. Save this file as: personas/[yourname]_persona.yaml
+

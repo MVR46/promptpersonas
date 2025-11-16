@@ -1,0 +1,60 @@
+# QUICK START PERSONA - Simplified version for fast setup
+# Fill in the basics below - you can always add more detail later!
+
+name: "[Your Name]"
+id: "[yourname_001]"
+
+demographics:
+  age: 
+  gender: ""
+  location: ""
+  occupation: ""
+  income_level: ""  # low, middle, upper
+
+personality:
+  traits:  # Pick 4-5 words that describe you
+    - 
+    - 
+    - 
+    - 
+  
+  values:  # What matters most to you? (4-5 things)
+    - 
+    - 
+    - 
+    - 
+
+interests:  # Your hobbies and passions (5-8 things)
+  - 
+  - 
+  - 
+  - 
+  - 
+
+shopping_behavior:
+  research_style: ""  # How do you research products?
+  price_sensitivity: ""  # high, medium, or low
+  brand_loyalty: ""  # high, moderate, or low
+  decision_factors:  # What matters when you buy? (top 5)
+    - 
+    - 
+    - 
+    - 
+    - 
+  purchase_frequency: ""  # frequent, moderate, or infrequent
+
+product_preferences:
+  electronics: ""  # Your approach to buying tech
+  brands_loved:  # Your favorite brands (3-5)
+    - 
+    - 
+    - 
+  brands_avoided:  # Brands you avoid (optional)
+    - 
+
+behavioral_notes: |
+  [Describe your shopping style in a few sentences - be honest!]
+  
+  What drives your purchases? What stops you from buying?
+  Any quirks about how you shop?
+
